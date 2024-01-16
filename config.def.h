@@ -8,6 +8,7 @@ static const int user_bh = 0;       /* 0 means that dmenu will calculate bar hei
 static const char *fonts[] = {
 	"monospace:size=10"
 };
+
 static const char *prompt      = NULL;      /* -p  option; prompt to the left of input field */
 static const char *colors[SchemeLast][2] = {
 	/*     fg         bg       */
